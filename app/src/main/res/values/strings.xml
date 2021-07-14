@@ -1,0 +1,35 @@
+<resources>
+    <string name="BMI_Header">BMI Rechner</string>
+    <string name="Zentimeter">Zentimeter</string>
+    <string name="Kilogramm">Kilogramm</string>
+    <string name="BMI">BMI</string>
+    <string name="backButton">zurück</string>
+    <string name="EingabeKG">Eingabe Körpergewicht in Kilogramm</string>
+    <string name="EingabeGroesse">Eingabe Körpergröße in Zentimetern</string>
+    <string name="app_name">BMI Rechner</string>
+    <string name="Information_Header">Informationen/Hinweise</string>
+    <string name="Disclaimer">Haftungsausschluß: Der Entwickler übernimmt keine Gewähr für die Richtigkeit der berechneten Ergebnisse.</string>
+    <string name="link_homepage">Die App wurde von Healthcare Helpers entwickelt. Für Infos/Anregungen/Support besuche meine Website:</string>
+    <string name="bmi_disclaimer">Hinweis: nicht für die Ermittlung des BMI bei Kindern geeignet.</string>
+    <string name="email_schreiben">Oder schreibe eine Email.</string>
+    <string name="Impressum">Impressum:\n\nSönke Hansen\nMaifeldstraße 3\n56299 Ochtendung\nEmail: healthcarehelpers@gmail.com</string>
+    <string name="tv_btn_info">Hinweise/Impressum</string>
+    <string name="Zentimeter_short">cm</string>
+    <string name="Kilogramm_short">kg</string>
+    <string name="NoRating">Nie</string>
+    <string name="Rate">Bewerte Pocket Nurse</string>
+    <string name="RateLater">Später</string>
+    <string name="Rate_Text">Wenn Dir Pocket Nurse gefällt, bewerte die App. \n\nDamit hilfst du uns und anderen. \n\nDanke dir! \n&lt;3 </string>
+    <string name="entspricht">&#8792;</string>
+    <string name="BMI_WHO">*nach WHO, Stand 2008 (internationale Variationen nicht berücksichtigt)</string>
+    <string name="BMI_Untergewicht_stark">starkes Untergewicht (unter 16)*</string>
+    <string name="BMI_Untergewicht_maessig">mäßiges Untergewicht (16 – 16,9)*</string>
+    <string name="BMI_Untergewicht_leicht">leichtes Untergewicht (17 – 18,4)*</string>
+    <string name="BMI_Normal">Normalgewicht (18,5 – 24,9)*</string>
+    <string name="BMI_praeadipositas">Präadipositas (25 – 29,9)*</string>
+    <string name="BMI_Adi1">Adipositas Grad I (30 – 34,9)*</string>
+    <string name="BMI_Adi2">Adipositas Grad II (35 – 39,9)*</string>
+    <string name="BMI_Adi3">Adipositas Grad III (über 40)*</string>
+
+
+</resources>
