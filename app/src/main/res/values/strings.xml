@@ -10,7 +10,7 @@
     <string name="Information_Header">Informationen/Hinweise</string>
     <string name="Disclaimer">Haftungsausschluß: Der Entwickler übernimmt keine Gewähr für die Richtigkeit der berechneten Ergebnisse.</string>
     <string name="link_homepage">Die App wurde von Healthcare Helpers entwickelt. Für Infos/Anregungen/Support besuche meine Website:</string>
-    <string name="bmi_disclaimer">Hinweis: nicht für die Ermittlung des BMI bei Kindern geeignet.</string>
+    <string name="bmi_disclaimer">Nicht für die Ermittlung des BMI bei Kindern geeignet.</string>
     <string name="email_schreiben">Oder schreibe eine Email.</string>
     <string name="Impressum">Impressum:\n\nSönke Hansen\nMaifeldstraße 3\n56299 Ochtendung\nEmail: healthcarehelpers@gmail.com</string>
     <string name="tv_btn_info">Hinweise/Impressum</string>

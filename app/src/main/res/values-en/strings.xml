@@ -1,0 +1,35 @@
+<resources>
+    <string name="BMI_Header">BMI Calculator</string>
+    <string name="Zentimeter">centimeter</string>
+    <string name="Kilogramm">kilogram</string>
+    <string name="BMI">BMI</string>
+    <string name="backButton">back</string>
+    <string name="EingabeKG">>input bodyweight in kilogram</string>
+    <string name="EingabeGroesse">input height in centimeters</string>
+    <string name="app_name">BMI Calculator</string>
+    <string name="Information_Header">Info/Notes</string>
+    <string name="Disclaimer">Desclaimer: The Developer assumes no guarantee for accurancy of the calculated results.</string>
+    <string name="link_homepage">The BMI Calculator was developed bei Healthcare Helpers. For further information/suggestions/support go to our website:</string>
+    <string name="bmi_disclaimer">Note: not suitable for calculating the BMI of children.</string>
+    <string name="email_schreiben">Or write an mail.</string>
+    <string name="Impressum">Imprint:\n\nSönke Hansen\nMaifeldstraße 3\n56299 Ochtendung\nEmail: healthcarehelpers@gmail.com\nGermany</string>
+    <string name="tv_btn_info">Notes/Imprint</string>
+    <string name="Zentimeter_short">cm</string>
+    <string name="Kilogramm_short">kg</string>
+    <string name="NoRating">No</string>
+    <string name="Rate">Rate Pocket Nurse</string>
+    <string name="RateLater">Remind me later</string>
+    <string name="Rate_Text">If you enjoy using BMI Calculator, please take a moment to rate it. \n\nThanks for your support!</string>
+    <string name="entspricht">&#8792;</string>
+    <string name="BMI_WHO">*WHO, 2008 (not considering international variations)</string>
+    <string name="BMI_Untergewicht_stark">Very severely underweight (less than 16)*</string>
+    <string name="BMI_Untergewicht_maessig">Severely underweight (16 – 16,9)*</string>
+    <string name="BMI_Untergewicht_leicht">Underweight (17 – 18,4)*</string>
+    <string name="BMI_Normal">Normal (healthy weight) (18,5 – 24,9)*</string>
+    <string name="BMI_praeadipositas">Overweight (25 – 29,9)*</string>
+    <string name="BMI_Adi1">Obese Class I (30 – 34,9)*</string>
+    <string name="BMI_Adi2">Obese Class II II (35 – 39,9)*</string>
+    <string name="BMI_Adi3">Obese Class III (more than 40)*</string>
+
+
+</resources>
