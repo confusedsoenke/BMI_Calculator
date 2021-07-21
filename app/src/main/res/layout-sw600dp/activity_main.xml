@@ -16,7 +16,7 @@
         android:layout_marginEnd="99dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tv_bmiCalc_Title">
+        app:layout_constraintTop_toTopOf="parent">
 
         <TableRow
             android:layout_width="wrap_content"
@@ -71,32 +71,17 @@
     </TableLayout>
 
     <TextView
-        android:id="@+id/tv_bmiCalc_Title"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="99dp"
-        android:layout_marginTop="16dp"
-        android:layout_marginEnd="99dp"
-        android:text="@string/BMI_Header"
-        android:textColor="@android:color/holo_blue_dark"
-        android:textSize="32sp"
-        android:textStyle="bold"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <TextView
         android:id="@+id/tv_BMI"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="24dp"
         android:layout_marginEnd="40dp"
         android:text="@string/BMI"
         android:textSize="56sp"
         android:visibility="invisible"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.29"
+        app:layout_constraintHorizontal_bias="0.426"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tableLayout" />
 

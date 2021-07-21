@@ -8,7 +8,9 @@ import android.text.TextWatcher
 import android.util.Log
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatDelegate
 import kotlinx.android.synthetic.main.activity_main.*
+import android.widget.CompoundButton
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -21,6 +23,13 @@ class MainActivity : AppCompatActivity() {
             startActivity(informationAct)
         }
 
+        switch_darkmode.setOnCheckedChangeListener(CompoundButton.OnCheckedChangeListener { buttonView, isChecked ->
+            if (isChecked) {
+                AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES)
+            } else {
+                AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO)
+            }
+        })
 
         // on changed groesse
         tv_float_groesse.addTextChangedListener(object : TextWatcher {
